@@ -1,0 +1,16 @@
+* materm (read: my terminal)
+  
+  Ever pondered what would happen if you try to come up with your own terminal?
+  Well, I did, and here's what happened !
+
+** mashell
+   
+   It goes without saying what use is a terminal of without any shell? 
+   Well, worry not, here's a shell for our very own terminal ;)
+
+   No, this is not ur usual shell, it does nothing what you're regular *nix shell does (in terms of 
+   executing commands, but the concept of shell is same).
+
+** Features
+   
+   To be added !! :P :D
