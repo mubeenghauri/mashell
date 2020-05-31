@@ -8,9 +8,24 @@
    It goes without saying what use is a terminal of without any shell? 
    Well, worry not, here's a shell for our very own terminal ;)
 
-   No, this is not ur usual shell, it does nothing what you're regular *nix shell does (in terms of 
+   No, this is not your usual shell, it does nothing what you're regular *nix shell does (in terms of 
    executing commands, but the concept of shell is same).
 
+** Run
+
+   If you dare running maTerm, do the following:
+
+   #+begin_src sh
+     make
+   #+end_src
+
+   This will compile and make executable(s). And then :
+
+   #+begin_src shell
+     ./materm
+   #+end_src
+
+   Voila, you should see an ugly black screen right away :P 
 ** Features
    
    To be added !! :P :D
