@@ -26,6 +26,22 @@
    #+end_src
 
    Voila, you should see an ugly black screen right away :P 
+  
+** Dependencies 
+   
+   Require:
+   - libgtk-+3.0
+   - libvte-2.91
 ** Features
    
    To be added !! :P :D
+** TODOs
+
+*** Add color support to materm
+    make text green, to get the real deal hacker vibe ;)
+
+*** Maybe add some useful functions?
+    dont have anything in mind, yet.
+  
+*** Text Editor ?
+    If I'm brave enough. :-\
